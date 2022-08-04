@@ -1,0 +1,14 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb
+C:\Users\hope9\Downloads\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe.config
+C:\Users\hope9\Downloads\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+C:\Users\hope9\Downloads\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+C:\Users\hope9\Downloads\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csproj.AssemblyReference.cache
+C:\Users\hope9\Downloads\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Downloads\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+C:\Users\hope9\Downloads\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb

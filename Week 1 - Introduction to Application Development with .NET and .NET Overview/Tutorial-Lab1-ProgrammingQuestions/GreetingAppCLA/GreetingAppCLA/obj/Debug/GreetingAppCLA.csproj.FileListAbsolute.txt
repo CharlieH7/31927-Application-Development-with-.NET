@@ -1,0 +1,22 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week1-Lab-ProgramSolution\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.csprojResolveAssemblyReference.cache
+C:\Users\hope9\Downloads\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.exe.config
+C:\Users\hope9\Downloads\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.exe
+C:\Users\hope9\Downloads\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\bin\Debug\GreetingAppCLA.pdb
+C:\Users\hope9\Downloads\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.csproj.AssemblyReference.cache
+C:\Users\hope9\Downloads\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Downloads\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.exe
+C:\Users\hope9\Downloads\Tutorial-Lab1-ProgrammingSolutions\GreetingAppCLA\GreetingAppCLA\obj\Debug\GreetingAppCLA.pdb
