@@ -1,0 +1,25 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\hope9\Downloads\Tutorial-Lab3-ProgrammingQuestions\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\hope9\Downloads\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\hope9\Downloads\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\hope9\Downloads\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\hope9\Downloads\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\hope9\Downloads\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\hope9\Downloads\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Downloads\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\hope9\Downloads\Shapes\Shapes\obj\Debug\Shapes.pdb
