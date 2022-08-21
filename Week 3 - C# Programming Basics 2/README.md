@@ -1,5 +1,5 @@
 # Lecture 3: Programming in C# 2
 
-Programming basics in C#: such as data types, variable & constants, value/reference type, input/output, operators, conditions & loops, strings and Enums, with examples and lab tasks.
+A brief recap of the different programming paradigms will be the provided. Students will explore how to use arrays in C#, creating user defined methods, Object-oriented programming basics with respect to C#, creating classes/objects, methods and constructors.
 
 
