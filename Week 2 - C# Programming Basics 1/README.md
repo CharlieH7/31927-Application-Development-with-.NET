@@ -1,5 +1,11 @@
 # Lecture 2: Programming in C# 1
 
-Programming basics in C#: such as data types, variable & constants, value/reference type, input/output, operators, conditions & loops, strings and Enums, with examples and lab tasks.
+* built in data types in C#
+* variables and constants
+* differen between value types and reference types
+* input and output statements in C#
+* different types of operators
+* conditional statements and different types of loop
+* String and Enums
 
 
