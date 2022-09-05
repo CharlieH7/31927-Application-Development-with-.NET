@@ -1,0 +1,6 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\InputOutputDemo\InputOutputDemo\bin\Debug\InputOutputDemo.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\InputOutputDemo\InputOutputDemo\bin\Debug\InputOutputDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\InputOutputDemo\InputOutputDemo\bin\Debug\InputOutputDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\InputOutputDemo\InputOutputDemo\obj\Debug\InputOutputDemo.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\InputOutputDemo\InputOutputDemo\obj\Debug\InputOutputDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\InputOutputDemo\InputOutputDemo\obj\Debug\InputOutputDemo.pdb
