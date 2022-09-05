@@ -1,6 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\IfElseDemo\IfElseDemo\bin\Debug\IfElseDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\IfElseDemo\IfElseDemo\bin\Debug\IfElseDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\IfElseDemo\IfElseDemo\bin\Debug\IfElseDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\IfElseDemo\IfElseDemo\obj\Debug\IfElseDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\IfElseDemo\IfElseDemo\obj\Debug\IfElseDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\IfElseDemo\IfElseDemo\obj\Debug\IfElseDemo.csprojResolveAssemblyReference.cache

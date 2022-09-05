@@ -1,5 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\WhileLoopDemo\WhileLoopDemo\bin\Debug\WhileLoopDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\WhileLoopDemo\WhileLoopDemo\bin\Debug\WhileLoopDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\WhileLoopDemo\WhileLoopDemo\bin\Debug\WhileLoopDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\WhileLoopDemo\WhileLoopDemo\obj\Debug\WhileLoopDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\WhileLoopDemo\WhileLoopDemo\obj\Debug\WhileLoopDemo.pdb

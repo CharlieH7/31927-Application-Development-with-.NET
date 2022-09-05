@@ -1,5 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\AssignmentOperatorDemo\AssignmentOperatorDemo\bin\Debug\AssignmentOperatorDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\AssignmentOperatorDemo\AssignmentOperatorDemo\bin\Debug\AssignmentOperatorDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\AssignmentOperatorDemo\AssignmentOperatorDemo\bin\Debug\AssignmentOperatorDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\AssignmentOperatorDemo\AssignmentOperatorDemo\obj\Debug\AssignmentOperatorDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\AssignmentOperatorDemo\AssignmentOperatorDemo\obj\Debug\AssignmentOperatorDemo.pdb

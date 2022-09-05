@@ -1,5 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\NestedLoopDemo\NestedLoopDemo\bin\Debug\NestedLoopDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\NestedLoopDemo\NestedLoopDemo\bin\Debug\NestedLoopDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\NestedLoopDemo\NestedLoopDemo\bin\Debug\NestedLoopDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\NestedLoopDemo\NestedLoopDemo\obj\Debug\NestedLoopDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\NestedLoopDemo\NestedLoopDemo\obj\Debug\NestedLoopDemo.pdb

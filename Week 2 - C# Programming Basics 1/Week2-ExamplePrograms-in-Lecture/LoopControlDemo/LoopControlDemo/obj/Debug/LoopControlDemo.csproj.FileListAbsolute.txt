@@ -1,5 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\LoopControlDemo\LoopControlDemo\bin\Debug\LoopControlDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\LoopControlDemo\LoopControlDemo\bin\Debug\LoopControlDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\LoopControlDemo\LoopControlDemo\bin\Debug\LoopControlDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\LoopControlDemo\LoopControlDemo\obj\Debug\LoopControlDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\LoopControlDemo\LoopControlDemo\obj\Debug\LoopControlDemo.pdb

@@ -1,5 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\doWhileDemo\doWhileDemo\bin\Debug\doWhileDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\doWhileDemo\doWhileDemo\bin\Debug\doWhileDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\doWhileDemo\doWhileDemo\bin\Debug\doWhileDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\doWhileDemo\doWhileDemo\obj\Debug\doWhileDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\doWhileDemo\doWhileDemo\obj\Debug\doWhileDemo.pdb

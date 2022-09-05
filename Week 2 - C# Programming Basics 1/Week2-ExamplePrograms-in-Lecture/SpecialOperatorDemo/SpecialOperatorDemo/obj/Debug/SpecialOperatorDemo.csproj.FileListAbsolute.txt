@@ -1,5 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SpecialOperatorDemo\SpecialOperatorDemo\bin\Debug\SpecialOperatorDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SpecialOperatorDemo\SpecialOperatorDemo\bin\Debug\SpecialOperatorDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SpecialOperatorDemo\SpecialOperatorDemo\bin\Debug\SpecialOperatorDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SpecialOperatorDemo\SpecialOperatorDemo\obj\Debug\SpecialOperatorDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SpecialOperatorDemo\SpecialOperatorDemo\obj\Debug\SpecialOperatorDemo.pdb
