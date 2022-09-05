@@ -1,0 +1,5 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.pdb

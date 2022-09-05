@@ -1,0 +1,5 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\StringDemo\StringDemo\bin\Debug\StringDemo.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\StringDemo\StringDemo\bin\Debug\StringDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\StringDemo\StringDemo\bin\Debug\StringDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\StringDemo\StringDemo\obj\Debug\StringDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\StringDemo\StringDemo\obj\Debug\StringDemo.pdb
