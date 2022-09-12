@@ -1,7 +1,0 @@
-H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ForeachDemo\ForeachDemo\bin\Debug\ForeachDemo.exe.config
-H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ForeachDemo\ForeachDemo\bin\Debug\ForeachDemo.exe
-H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ForeachDemo\ForeachDemo\bin\Debug\ForeachDemo.pdb
-H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ForeachDemo\ForeachDemo\obj\Debug\ForeachDemo.csprojAssemblyReference.cache
-H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ForeachDemo\ForeachDemo\obj\Debug\ForeachDemo.csproj.CoreCompileInputs.cache
-H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ForeachDemo\ForeachDemo\obj\Debug\ForeachDemo.exe
-H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ForeachDemo\ForeachDemo\obj\Debug\ForeachDemo.pdb
