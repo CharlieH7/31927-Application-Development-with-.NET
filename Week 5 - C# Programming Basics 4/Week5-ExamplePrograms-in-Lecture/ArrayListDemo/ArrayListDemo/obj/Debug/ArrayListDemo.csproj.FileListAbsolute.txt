@@ -1,0 +1,7 @@
+H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.csprojAssemblyReference.cache
+H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.exe.config
+H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.exe
+H:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-5\Week5-ExamplePrograms-in-Lecture\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.pdb
