@@ -1,0 +1,6 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\MethodHidingDemo\MethodHidingDemo\bin\Debug\MethodHidingDemo.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\MethodHidingDemo\MethodHidingDemo\bin\Debug\MethodHidingDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\MethodHidingDemo\MethodHidingDemo\bin\Debug\MethodHidingDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\MethodHidingDemo\MethodHidingDemo\obj\Debug\MethodHidingDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\MethodHidingDemo\MethodHidingDemo\obj\Debug\MethodHidingDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\MethodHidingDemo\MethodHidingDemo\obj\Debug\MethodHidingDemo.csprojResolveAssemblyReference.cache

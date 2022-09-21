@@ -1,0 +1,7 @@
+J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\VisibilityDemo\VisibilityDemo\bin\Debug\VisibilityDemo.exe.config
+J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\VisibilityDemo\VisibilityDemo\bin\Debug\VisibilityDemo.exe
+J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\VisibilityDemo\VisibilityDemo\bin\Debug\VisibilityDemo.pdb
+J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\VisibilityDemo\VisibilityDemo\obj\Debug\VisibilityDemo.csprojAssemblyReference.cache
+J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\VisibilityDemo\VisibilityDemo\obj\Debug\VisibilityDemo.csproj.CoreCompileInputs.cache
+J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\VisibilityDemo\VisibilityDemo\obj\Debug\VisibilityDemo.exe
+J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\VisibilityDemo\VisibilityDemo\obj\Debug\VisibilityDemo.pdb
