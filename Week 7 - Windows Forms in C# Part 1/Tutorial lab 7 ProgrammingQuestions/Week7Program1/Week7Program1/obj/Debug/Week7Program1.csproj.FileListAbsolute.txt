@@ -1,0 +1,25 @@
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week8Program1\obj\Debug\Week7Program1.csprojAssemblyReference.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week8Program1\obj\Debug\Week8Program1.Form1.resources
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week8Program1\obj\Debug\Week8Program1.Properties.Resources.resources
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week8Program1\obj\Debug\Week7Program1.csproj.GenerateResource.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week8Program1\obj\Debug\Week7Program1.csproj.CoreCompileInputs.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week8Program1\obj\Debug\Week8Program1.exe
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week8Program1\obj\Debug\Week8Program1.pdb
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week7Program1.csprojAssemblyReference.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.Form1.resources
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.Properties.Resources.resources
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week7Program1.csproj.GenerateResource.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week7Program1.csproj.CoreCompileInputs.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.exe
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial lab 7ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.pdb
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week7Program1.csproj.AssemblyReference.cache
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week7Program1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.Form1.resources
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.Properties.Resources.resources
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week7Program1.csproj.GenerateResource.cache
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week7Program1.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.exe
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\obj\Debug\Week8Program1.pdb
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\bin\Debug\Week8Program1.exe.config
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\bin\Debug\Week8Program1.exe
+C:\Users\hope9\Downloads\Tutorial lab 7 ProgrammingQuestions\Week7Program1\Week7Program1\bin\Debug\Week8Program1.pdb
