@@ -1,0 +1,12 @@
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial Lab 8 Programming Questions\Week8Program1\Week9Program1\obj\Debug\Week8Program1.csprojAssemblyReference.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial Lab 8 Programming Questions\Week8Program1\Week9Program1\obj\Debug\Week8Program1.csproj.CoreCompileInputs.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\obj\Debug\Week8Program1.csprojAssemblyReference.cache
+C:\Users\130410\AppLockerExceptions\32998-31927\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\obj\Debug\Week8Program1.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\bin\Debug\Week8Program1.exe.config
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\bin\Debug\Week8Program1.exe
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\bin\Debug\Week8Program1.pdb
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\obj\Debug\Week8Program1.csproj.AssemblyReference.cache
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\obj\Debug\Week8Program1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\obj\Debug\Week8Program1.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\obj\Debug\Week8Program1.exe
+C:\Users\hope9\Downloads\Tutorial Lab 8 Programming Questions\Week8Program1\Week8Program1\obj\Debug\Week8Program1.pdb
