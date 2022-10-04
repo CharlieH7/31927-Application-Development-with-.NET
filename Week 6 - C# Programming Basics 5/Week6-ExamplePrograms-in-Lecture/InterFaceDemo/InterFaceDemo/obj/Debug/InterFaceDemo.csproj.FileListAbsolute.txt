@@ -1,6 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\InterFaceDemo\InterFaceDemo\bin\Debug\InterFaceDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\InterFaceDemo\InterFaceDemo\obj\Debug\InterFaceDemo.csprojResolveAssemblyReference.cache
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\InterFaceDemo\InterFaceDemo\bin\Debug\InterFaceDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\InterFaceDemo\InterFaceDemo\bin\Debug\InterFaceDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\InterFaceDemo\InterFaceDemo\obj\Debug\InterFaceDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Lecture-Slides\Week6-ExamplePrograms-in-Lecture\InterFaceDemo\InterFaceDemo\obj\Debug\InterFaceDemo.pdb

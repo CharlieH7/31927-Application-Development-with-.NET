@@ -1,7 +1,0 @@
-J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\SingleInheritanceDemo\SingleInheritanceDemo\bin\Debug\SingleInheritanceDemo.exe.config
-J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\SingleInheritanceDemo\SingleInheritanceDemo\bin\Debug\SingleInheritanceDemo.exe
-J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\SingleInheritanceDemo\SingleInheritanceDemo\bin\Debug\SingleInheritanceDemo.pdb
-J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\SingleInheritanceDemo\SingleInheritanceDemo\obj\Debug\SingleInheritanceDemo.csprojAssemblyReference.cache
-J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\SingleInheritanceDemo\SingleInheritanceDemo\obj\Debug\SingleInheritanceDemo.csproj.CoreCompileInputs.cache
-J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\SingleInheritanceDemo\SingleInheritanceDemo\obj\Debug\SingleInheritanceDemo.exe
-J:\UTS\D Drive\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-6\Week6-ExamplePrograms-in-Lecture\SingleInheritanceDemo\SingleInheritanceDemo\obj\Debug\SingleInheritanceDemo.pdb
