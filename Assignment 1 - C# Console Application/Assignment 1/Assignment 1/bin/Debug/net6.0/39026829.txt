@@ -1,0 +1,7 @@
+First Name|k
+Last Name|k
+Address|k
+Phone|123
+Email|hope91824@gmail.com
+AccountNo|39026829
+Balance|0
