@@ -1,0 +1,6 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\HasTableDemo\HasTableDemo\bin\Debug\HasTableDemo.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\HasTableDemo\HasTableDemo\bin\Debug\HasTableDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\HasTableDemo\HasTableDemo\bin\Debug\HasTableDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\HasTableDemo\HasTableDemo\obj\Debug\HasTableDemo.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\HasTableDemo\HasTableDemo\obj\Debug\HasTableDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\HasTableDemo\HasTableDemo\obj\Debug\HasTableDemo.pdb

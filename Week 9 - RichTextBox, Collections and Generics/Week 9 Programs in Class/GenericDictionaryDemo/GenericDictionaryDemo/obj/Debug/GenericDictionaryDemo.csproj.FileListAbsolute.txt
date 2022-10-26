@@ -1,0 +1,6 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\GenericDictionaryDemo\GenericDictionaryDemo\bin\Debug\GenericDictionaryDemo.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\GenericDictionaryDemo\GenericDictionaryDemo\bin\Debug\GenericDictionaryDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\GenericDictionaryDemo\GenericDictionaryDemo\bin\Debug\GenericDictionaryDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\GenericDictionaryDemo\GenericDictionaryDemo\obj\Debug\GenericDictionaryDemo.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\GenericDictionaryDemo\GenericDictionaryDemo\obj\Debug\GenericDictionaryDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\GenericDictionaryDemo\GenericDictionaryDemo\obj\Debug\GenericDictionaryDemo.pdb

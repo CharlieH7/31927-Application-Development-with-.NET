@@ -1,0 +1,6 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\LinkeListDemo\LinkeListDemo\bin\Debug\LinkeListDemo.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\LinkeListDemo\LinkeListDemo\bin\Debug\LinkeListDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\LinkeListDemo\LinkeListDemo\bin\Debug\LinkeListDemo.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\LinkeListDemo\LinkeListDemo\obj\Debug\LinkeListDemo.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\LinkeListDemo\LinkeListDemo\obj\Debug\LinkeListDemo.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\LinkeListDemo\LinkeListDemo\obj\Debug\LinkeListDemo.pdb
