@@ -1,0 +1,15 @@
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\bin\Debug\net6.0\Week9Program1.exe
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\bin\Debug\net6.0\Week9Program1.deps.json
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\bin\Debug\net6.0\Week9Program1.runtimeconfig.json
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\bin\Debug\net6.0\Week9Program1.dll
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\bin\Debug\net6.0\Week9Program1.pdb
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.csproj.AssemblyReference.cache
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.AssemblyInfoInputs.cache
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.AssemblyInfo.cs
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.csproj.CoreCompileInputs.cache
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.dll
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\refint\Week9Program1.dll
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.pdb
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\Week9Program1.genruntimeconfig.cache
+C:\Users\hope9\Desktop\UTS\31927 Application Development with .NET\Week 9 - RichTextBox, Collections and Generics\Week9Program1\Week9Program1\obj\Debug\net6.0\ref\Week9Program1.dll
