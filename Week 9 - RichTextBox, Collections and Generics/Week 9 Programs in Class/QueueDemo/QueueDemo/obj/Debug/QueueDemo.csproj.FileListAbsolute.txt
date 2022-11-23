@@ -1,5 +1,0 @@
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\QueueDemo\QueueDemo\bin\Debug\QueueDemo.pdb
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\QueueDemo\QueueDemo\obj\Debug\QueueDemo.exe
-D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-9\Lecture\Week 9 Programs in Class\QueueDemo\QueueDemo\obj\Debug\QueueDemo.pdb
