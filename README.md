@@ -5,6 +5,8 @@ Session: Spring 2022
 
 Subject: 31927 Application Development with .NET
 
+Final Grade: 91 (High Distinction)
+
 This subject introduces C#, Visual Studio and the .NET development environment. The emphasis is on examining the
 .NET framework and the practicalities of developing software in this setting using the C# language.
 
